@@ -349,7 +349,7 @@ before it is saved. Your `__init__` method should receive a default argument for
 string between 1 and 25 characters."
 2. Define a `job` property for your `Person` class. Your `__init__` method should
    receive a default argument for `job`.
-    - If the job is invalid, the setter method should `print()` "Job must be in
+    - If the job is invalid, the setter method should `print()` "Job mu1st be in
 list of approved jobs." The job must be in the following list of jobs:
 
 ```py
